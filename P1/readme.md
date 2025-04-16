@@ -66,10 +66,10 @@
 
 ### b) Backend
 
-- **Rust:**  
+- **Rust (Framework: Rocket):**  
   - **Begründung:**  
     - Hohe Leistung und Sicherheit
-    - Steigender Usage in bedeuteten Projekten / Hohes Investment
+    - Steigender Usage in bedeuteten Projekten / Hohes Investment in Weiterentwicklung
 
 ### c) Messaging & Integration
 
@@ -87,10 +87,11 @@
 
 ### f) Präsentationsschicht
 
-- **NextJS / Vue / Angular**
+- **NextJS**
     - **Begründung:**
         - Schneller Workflow
         - Schnelles Prototyping
+        - Gutes Basispaket an UI Elementen
 
 ### Erweiterte Tabelle
 
